@@ -3,6 +3,7 @@ import Chart from './components/Chart';
 import {Provider} from 'react-redux'
 import storeSaved from './stores';
 import Form from './components/Form';
+import './App.css'
 
 function App() {
 
