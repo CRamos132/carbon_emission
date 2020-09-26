@@ -1,6 +1,6 @@
 # Carbon Emission Chart Project
 
-Projeto disponível em: https://dog-app-ecru.vercel.app/
+Project available at: https://carbon-emission.vercel.app/
 
 Chart showing the carbon emissions in the UK in the dates selected by the user developed using ReactJS and Redux
 
